@@ -65,6 +65,7 @@
         <module>stip-cloud-swagger</module>
         <module>stip-cloud-eureka</module>
         <module>stip-cloud-gateway</module>
+        <module>stip-cloud-authorization</module>
     </modules>
 
     <build>
